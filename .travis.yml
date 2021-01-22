@@ -10,8 +10,8 @@ install:
  - dotnet restore
 script:
  - dotnet build
- - dotnet test test/Chat.Client.Library.Tests.csproj
- - dotnet test test/Chat.Design.Tests.csproj
- - dotnet test test/Chat.Server.Tests.csproj
+ - dotnet test test/Chat.Client.Library.Tests/Chat.Client.Library.Tests.csproj
+ - dotnet test test/Chat.Design.Tests/Chat.Design.Tests.csproj
+ - dotnet test test/Chat.Server.Tests/Chat.Server.Tests.csproj
 notifications:
   email: false
