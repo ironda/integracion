@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="80414388-82e8-433e-9299-feee5df8bf87" name="Iñaki@DESKTOP-UJMHIPG 2021-01-22 14:13:58" runUser="DESKTOP-UJMHIPG\Iñaki" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-01-22T14:13:58.6374127+01:00" queuing="2021-01-22T14:13:58.6374134+01:00" start="2021-01-22T14:13:54.9597278+01:00" finish="2021-01-22T14:13:58.6450645+01:00" />
+  <TestSettings name="default" id="7fdcee99-511a-4edf-9689-1cc264312582">
+    <Deployment runDeploymentRoot="Iñaki_DESKTOP-UJMHIPG_2021-01-22_14_13_58" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="5b023adf-b36a-4966-b256-bf2f50370056" testId="0413942f-9484-5a89-6254-a91e0718da8a" testName="Chat.Design.Tests.AssemblyReferenceTests.ChatServerLibraryAssembly_ShouldReferenceChatCommonAssembly_AndNoOthers" computerName="DESKTOP-UJMHIPG" duration="00:00:00.0002717" startTime="2021-01-22T14:13:58.5152303+01:00" endTime="2021-01-22T14:13:58.5152309+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5b023adf-b36a-4966-b256-bf2f50370056" />
+    <UnitTestResult executionId="891c12ba-080b-4028-83ac-e53387a391ef" testId="93350978-a94f-88ef-56b2-035f80b2d3e9" testName="Chat.Design.Tests.AssemblyReferenceTests.ChatCommonAssembly_ShouldNotReferenceAny" computerName="DESKTOP-UJMHIPG" duration="00:00:00.0002285" startTime="2021-01-22T14:13:58.5153639+01:00" endTime="2021-01-22T14:13:58.5153642+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="891c12ba-080b-4028-83ac-e53387a391ef" />
+    <UnitTestResult executionId="0d3bdd67-5c8b-4364-97ca-e416d7919555" testId="ac8b1aac-84fa-2e09-75ab-7f4fcc6fb0ed" testName="Chat.Design.Tests.AssemblyReferenceTests.ChatServerAssembly_ShouldReferenceChatServerLibraryAssemblyAndChatCommonAssembly_AndNoOthers" computerName="DESKTOP-UJMHIPG" duration="00:00:00.0061385" startTime="2021-01-22T14:13:58.5100491+01:00" endTime="2021-01-22T14:13:58.5101401+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0d3bdd67-5c8b-4364-97ca-e416d7919555" />
+    <UnitTestResult executionId="702e2b41-1e18-4eca-b4e5-e0159789949e" testId="0bfb8855-8280-2085-76ee-13ff88f73f75" testName="Chat.Design.Tests.AssemblyReferenceTests.ChatClientAssembly_ShouldReferenceChatClientLibraryAssembly_AndNoOthers" computerName="DESKTOP-UJMHIPG" duration="00:00:00.0002462" startTime="2021-01-22T14:13:58.5153002+01:00" endTime="2021-01-22T14:13:58.5153005+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="702e2b41-1e18-4eca-b4e5-e0159789949e" />
+    <UnitTestResult executionId="dda0014b-342f-41f8-b0e3-4d2f4d3c0dc5" testId="d5eb2fe0-c647-ea96-b78d-543000640912" testName="Chat.Design.Tests.AssemblyReferenceTests.ChatClientLibraryAssembly_ShouldReferenceChatCommon_AndNoOthers" computerName="DESKTOP-UJMHIPG" duration="00:00:00.0002954" startTime="2021-01-22T14:13:58.5150511+01:00" endTime="2021-01-22T14:13:58.5150517+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dda0014b-342f-41f8-b0e3-4d2f4d3c0dc5" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Chat.Design.Tests.AssemblyReferenceTests.ChatServerAssembly_ShouldReferenceChatServerLibraryAssemblyAndChatCommonAssembly_AndNoOthers" storage="d:\trabajo\curso testing\lab.250-ejercicio de prácticas\test\chat.design.tests\bin\debug\net5.0\chat.design.tests.dll" id="ac8b1aac-84fa-2e09-75ab-7f4fcc6fb0ed">
+      <Execution id="0d3bdd67-5c8b-4364-97ca-e416d7919555" />
+      <TestMethod codeBase="D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\test\Chat.Design.Tests\bin\Debug\net5.0\Chat.Design.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Chat.Design.Tests.AssemblyReferenceTests" name="ChatServerAssembly_ShouldReferenceChatServerLibraryAssemblyAndChatCommonAssembly_AndNoOthers" />
+    </UnitTest>
+    <UnitTest name="Chat.Design.Tests.AssemblyReferenceTests.ChatCommonAssembly_ShouldNotReferenceAny" storage="d:\trabajo\curso testing\lab.250-ejercicio de prácticas\test\chat.design.tests\bin\debug\net5.0\chat.design.tests.dll" id="93350978-a94f-88ef-56b2-035f80b2d3e9">
+      <Execution id="891c12ba-080b-4028-83ac-e53387a391ef" />
+      <TestMethod codeBase="D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\test\Chat.Design.Tests\bin\Debug\net5.0\Chat.Design.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Chat.Design.Tests.AssemblyReferenceTests" name="ChatCommonAssembly_ShouldNotReferenceAny" />
+    </UnitTest>
+    <UnitTest name="Chat.Design.Tests.AssemblyReferenceTests.ChatServerLibraryAssembly_ShouldReferenceChatCommonAssembly_AndNoOthers" storage="d:\trabajo\curso testing\lab.250-ejercicio de prácticas\test\chat.design.tests\bin\debug\net5.0\chat.design.tests.dll" id="0413942f-9484-5a89-6254-a91e0718da8a">
+      <Execution id="5b023adf-b36a-4966-b256-bf2f50370056" />
+      <TestMethod codeBase="D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\test\Chat.Design.Tests\bin\Debug\net5.0\Chat.Design.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Chat.Design.Tests.AssemblyReferenceTests" name="ChatServerLibraryAssembly_ShouldReferenceChatCommonAssembly_AndNoOthers" />
+    </UnitTest>
+    <UnitTest name="Chat.Design.Tests.AssemblyReferenceTests.ChatClientLibraryAssembly_ShouldReferenceChatCommon_AndNoOthers" storage="d:\trabajo\curso testing\lab.250-ejercicio de prácticas\test\chat.design.tests\bin\debug\net5.0\chat.design.tests.dll" id="d5eb2fe0-c647-ea96-b78d-543000640912">
+      <Execution id="dda0014b-342f-41f8-b0e3-4d2f4d3c0dc5" />
+      <TestMethod codeBase="D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\test\Chat.Design.Tests\bin\Debug\net5.0\Chat.Design.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Chat.Design.Tests.AssemblyReferenceTests" name="ChatClientLibraryAssembly_ShouldReferenceChatCommon_AndNoOthers" />
+    </UnitTest>
+    <UnitTest name="Chat.Design.Tests.AssemblyReferenceTests.ChatClientAssembly_ShouldReferenceChatClientLibraryAssembly_AndNoOthers" storage="d:\trabajo\curso testing\lab.250-ejercicio de prácticas\test\chat.design.tests\bin\debug\net5.0\chat.design.tests.dll" id="0bfb8855-8280-2085-76ee-13ff88f73f75">
+      <Execution id="702e2b41-1e18-4eca-b4e5-e0159789949e" />
+      <TestMethod codeBase="D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\test\Chat.Design.Tests\bin\Debug\net5.0\Chat.Design.Tests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Chat.Design.Tests.AssemblyReferenceTests" name="ChatClientAssembly_ShouldReferenceChatClientLibraryAssembly_AndNoOthers" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="0413942f-9484-5a89-6254-a91e0718da8a" executionId="5b023adf-b36a-4966-b256-bf2f50370056" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93350978-a94f-88ef-56b2-035f80b2d3e9" executionId="891c12ba-080b-4028-83ac-e53387a391ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ac8b1aac-84fa-2e09-75ab-7f4fcc6fb0ed" executionId="0d3bdd67-5c8b-4364-97ca-e416d7919555" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0bfb8855-8280-2085-76ee-13ff88f73f75" executionId="702e2b41-1e18-4eca-b4e5-e0159789949e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5eb2fe0-c647-ea96-b78d-543000640912" executionId="dda0014b-342f-41f8-b0e3-4d2f4d3c0dc5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Resultados sin formato de lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos los resultados cargados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.0 (64-bit .NET 5.0.1-servicing.20575.16)&#xD;
+[xUnit.net 00:00:02.56]   Discovering: Chat.Design.Tests&#xD;
+[xUnit.net 00:00:02.60]   Discovered:  Chat.Design.Tests&#xD;
+[xUnit.net 00:00:02.60]   Starting:    Chat.Design.Tests&#xD;
+[xUnit.net 00:00:02.70]   Finished:    Chat.Design.Tests&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
