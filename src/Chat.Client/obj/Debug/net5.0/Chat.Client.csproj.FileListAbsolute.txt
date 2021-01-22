@@ -20,3 +20,25 @@ D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\src\Chat.Client\obj\Deb
 D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\src\Chat.Client\obj\Debug\net5.0\ref\Chat.Client.dll
 D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\src\Chat.Client\obj\Debug\net5.0\Chat.Client.pdb
 D:\Trabajo\Curso Testing\Lab.250-Ejercicio de prácticas\src\Chat.Client\obj\Debug\net5.0\Chat.Client.genruntimeconfig.cache
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.exe
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.deps.json
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.runtimeconfig.json
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.runtimeconfig.dev.json
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\ref\Chat.Client.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.pdb
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.Library.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Common.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Client.Library.pdb
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\bin\Debug\net5.0\Chat.Common.pdb
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.csprojAssemblyReference.cache
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.AssemblyInfoInputs.cache
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.AssemblyInfo.cs
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.csproj.CoreCompileInputs.cache
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.csproj.CopyComplete
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\ref\Chat.Client.dll
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.pdb
+D:\Trabajo\Curso Testing\Git\Integracion\src\Chat.Client\obj\Debug\net5.0\Chat.Client.genruntimeconfig.cache
