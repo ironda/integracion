@@ -9,9 +9,9 @@ trigger:
 strategy:
   matrix: 
     Ubuntu: 
-	  imagenName: 'ubuntu-16.04'
+	  imageName: 'ubuntu-16.04'
 	Visual Studio 2019:
-	  imagenName: 'windows-2019'
+	  imageName: 'windows-2019'
 	High Sierra:
 	  imageName: 'macos-10.13'
   
