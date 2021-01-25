@@ -11,3 +11,7 @@
 ## Azure DevOps status
 
 [![Build Status](https://dev.azure.com/ironda/Integraci%C3%B3n/_apis/build/status/ironda.integracion?branchName=master)](https://dev.azure.com/ironda/Integraci%C3%B3n/_build/latest?definitionId=1&branchName=master)
+
+## Github Actions status
+
+![.github/workflows/dotnet.yml](https://github.com/ironda/integracion/workflows/.github/workflows/dotnet.yml/badge.svg?branch=master)
